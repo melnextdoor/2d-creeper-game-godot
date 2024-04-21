@@ -1,9 +1,10 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1713377450
+::res://::1713725425
 icon.svg::CompressedTexture2D::8539767469628084093::1713375837::1713375841::1::::<><>::
-player.gd::GDScript::-1::1713144499::0::1::::<>Area2D<>::
+player.gd::GDScript::-1::1713673782::0::1::::<>Area2D<>::
+player.tscn::PackedScene::7104855223391476157::1713725077::0::1::::<><>::uid://bdulw4rulpn8j::::res://art/playerGrey_up1.png<>res://player.gd<>uid://csl7ivtwli8r::::res://art/playerGrey_up2.png<>uid://dpiq0uc7f3cmf::::res://art/playerGrey_walk1.png<>uid://bxoht6jucw4ue::::res://art/playerGrey_walk2.png
 README.md::TextFile::-1::1713144477::0::1::::<><>::
-::res://art/::1713377450
+::res://art/::1713377477
 enemyFlyingAlt_1.png::CompressedTexture2D::6597937868868170919::1713377450::1713377477::1::::<><>::
 enemyFlyingAlt_2.png::CompressedTexture2D::1889692501497317607::1713377450::1713377477::1::::<><>::
 enemySwimming_1.png::CompressedTexture2D::3421868456041322130::1713377450::1713377477::1::::<><>::
@@ -16,7 +17,7 @@ playerGrey_up1.png::CompressedTexture2D::2638983494437575687::1713377450::171337
 playerGrey_up2.png::CompressedTexture2D::178261972695337579::1713377450::1713377477::1::::<><>::
 playerGrey_walk1.png::CompressedTexture2D::8229626899432483157::1713377450::1713377477::1::::<><>::
 playerGrey_walk2.png::CompressedTexture2D::4030125967997615280::1713377450::1713377477::1::::<><>::
-::res://fonts/::1713377450
+::res://fonts/::1713377477
 FONTLOG.txt::TextFile::-1::1713377450::0::1::::<><>::
 LICENSE.txt::TextFile::-1::1713377450::0::1::::<><>::
 Xolonium-Regular.ttf::FontFile::7127666588301717721::1713377450::1713377477::1::::<><>::
